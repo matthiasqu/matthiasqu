@@ -1,7 +1,7 @@
 # 👋 Hi, I am @matthiasqu
 - 👀 Interested in all things software-development and science, sports and music
 - 💞️ Product Owner by heart, exploring new technology whereever possible
-- 🌱 I’m looking to collaborate on anything that involves software development and fun
+- 🌱 I’m looking to collaborate on fun software development projects
 
 <!---
 matthiasqu/matthiasqu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
